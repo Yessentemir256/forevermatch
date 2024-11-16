@@ -6,7 +6,7 @@ services:
     container_name: forevermatch_db
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      POSTGRES_PASSWORD: pass
       POSTGRES_DB: forevermatch
     ports:
       - "5432:5432"
