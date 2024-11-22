@@ -4,5 +4,5 @@ Forever Match is a service for safe search of a partner for life. This project i
 
 ### Features
 - **Focus on serious relationships**.
-- **Modern technologies**: Go, Gin, PostgreSQL, Docker.
+- **Modern technologies**: Go, PostgreSQL, Docker.
 - **High security**: user data is secure.
